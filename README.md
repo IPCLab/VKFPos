@@ -33,5 +33,4 @@ Direct Run `train.py` in the terminal.
 
 
 ## Visualize
-Change the `--checkpoint_file` in the visualize.py to your trained checkpoint, and run `visualize.py`# VKFPos
-# VKFPos
+Change the `--checkpoint_file` in the visualize.py to your trained checkpoint, and run `visualize.py`
