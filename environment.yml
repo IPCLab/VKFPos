@@ -158,4 +158,4 @@ dependencies:
     - mpmath==1.2.1
     - numpy-quaternion==2022.4.3
     - pyqt5-sip==12.11.0
-prefix: /home/jianyu/anaconda3/envs/pytorch_pre
+prefix: /home/anaconda3/envs/pytorch_pre
